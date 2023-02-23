@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: snowsession
-Version: 0.0.2.dev2+ge6cf477.d20230223
+Version: 0.0.4.dev1+g0f9f74a.d20230223
 Summary: Helper package to create Snowflake Snowpark sessions
 Home-page: https://github.com/sashamitrovich/snowsession
 Author: Saša Mitrović
