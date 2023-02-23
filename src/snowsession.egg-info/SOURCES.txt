@@ -1,0 +1,12 @@
+LICENSE
+pyproject.toml
+setup.cfg
+.github/workflows/python-package.yml
+.github/workflows/python-publish.yml
+src/__init__.py
+src/app.py
+src/snowsession.egg-info/PKG-INFO
+src/snowsession.egg-info/SOURCES.txt
+src/snowsession.egg-info/dependency_links.txt
+src/snowsession.egg-info/entry_points.txt
+src/snowsession.egg-info/top_level.txt

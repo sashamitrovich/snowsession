@@ -1,0 +1,3 @@
+[console_scripts]
+executable-name = snowsession.module:function
+gha_python_packaging_demo = snowsession.app:entry_point

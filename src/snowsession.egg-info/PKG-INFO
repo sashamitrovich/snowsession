@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: snowsession
+Version: 0.0.2.dev2+ge6cf477.d20230223
+Summary: Helper package to create Snowflake Snowpark sessions
+Home-page: https://github.com/sashamitrovich/snowsession
+Author: Saša Mitrović
+Author-email: sasha.mitrovich@hotmail.com
+Project-URL: Bug Tracker, https://github.com/sashamitrovich/snowsession/issues
+Project-URL: Changelog, https://github.com/sashamitrovich/snowsession/releases
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Intended Audience :: Developers
+Requires-Python: ==3.8.*
+Description-Content-Type: text/markdown
+License-File: LICENSE
